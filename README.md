@@ -34,7 +34,7 @@
 <tr>
   <td><a href='https://github.com/mr-lexx/New_York_taxi'>BigData PySpark</a></td>
   <td>Для привлечения водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов на следующий час в каждом округе Чикаго.</td>
-  <td>Matplotlib, Pandas, Python, Scikit-learn, Microsoft SQL</td>
+  <td>Docker, PySpark, Pandas, Python, Matplotlib, LinearRegression, GBTRegressor</td>
   <td>Среднее по району значение MAE для лучшей модели составило 1.374</td>
 </tr>
 </table>
