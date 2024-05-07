@@ -2,7 +2,7 @@
 -
 -->
 # Курсы:
-<a>&nbsp;&nbsp;&nbsp;- Яндекс.Практикум: Специалист по Data Science</a> 
+<a>&nbsp;&nbsp;&nbsp;- Яндекс.Практикум: Специалист по Data Science</a> <br>
 &nbsp;&nbsp;&nbsp;- Программирование на Python (Stepik, Bioinformatics Institute) | <a href='https://github.com/mr-lexx/cert/blob/main/stepik-certificate-67-bdb2266.pdf'>Сертификат</a>
 
 
