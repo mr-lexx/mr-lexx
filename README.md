@@ -30,7 +30,14 @@
 
 # Мастерская Яндекс
 <details open>
-
+<table>
+<tr>
+  <td><a href='https://github.com/mr-lexx/New_York_taxi'>BigData PySpark</a></td>
+  <td>Для привлечения водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов на следующий час в каждом округе Чикаго.</td>
+  <td>Matplotlib, Pandas, Python, Scikit-learn, Microsoft SQL</td>
+  <td>Лучший результат метрики AUC-ROC на валидационной выборке составила 0.811</td>
+</tr>
+</table>
 </details>
 
 # Хакатоны
