@@ -13,7 +13,7 @@
   <summary>Список учебных проектов</summary>
 <table>
 <tr>
-  <td><a href='https://github.com/mr-lexx/Yandex_Practicum/tree/main/Toxic_words'>Прогнозирования оттока клиентов оператора</a></td>
+  <td><a href='https://github.com/mr-lexx/Yandex_Practicum/tree/main/Outflow_forecasting'>Прогнозирования оттока клиентов оператора</a></td>
   <td>Необходимо научиться выделять тех клиентов компании, которые могут покинуть компанию. Найти возможные причины уходы, чтобы иметь возможноть удержать их. </td>
   <td>Matplotlib, Pandas, Python, Scikit-learn, Shap, Phik, Lightgbm, CatBoost, GridSearchCV, Pipeline</td>
   <td>Лучший результат метрики Roc Auc 0.93 на тестовой выборке</td>
