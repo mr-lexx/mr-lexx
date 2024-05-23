@@ -33,7 +33,7 @@
 <tr>
   <td><a href='https://github.com/mr-lexx/Yandex_Practicum/tree/main/Determining_age'>Определение возраста покупателей</a></td>
   <td>Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Нужно построить модель, которая по фотографии определит приблизительный возраст человека.</td>
-  <td>Keras, Numpy, ResNet50, Pandas</td>
+  <td>Keras, Numpy, ResNet50, Pandas, CV</td>
   <td>MSE <7 на 10 эпохах в ResNet50</td>
 </tr>
 
