@@ -27,7 +27,7 @@
 <tr>
   <td><a href='https://github.com/mr-lexx/Yandex_Practicum/tree/main/Toxic_words'>Классификация комментариев</a></td>
   <td>Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. </td>
-  <td>Matplotlib, Pandas, Python, Scikit-learn, Lightgbm, Spacy, GridSearchCV</td>
+  <td>Matplotlib, Pandas, Python, Scikit-learn, Lightgbm, Spacy, GridSearchCV, NLP</td>
   <td>Лучший результат показала модель LightGBM:<br> F1 =  0.78</td>
 </tr>
 <tr>
