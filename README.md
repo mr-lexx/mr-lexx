@@ -2,6 +2,7 @@
 --
 -->
 # Курсы:
+&nbsp;&nbsp;&nbsp;- "Поколение Python": курс для продвинутых <a href='https://stepik.org/cert/2488264'>Сертификат</a>
 <a>&nbsp;&nbsp;&nbsp;- Яндекс.Практикум: Специалист по Data Science</a> <br>
 &nbsp;&nbsp;&nbsp;- Программирование на Python (Stepik, Bioinformatics Institute) | <a href='https://github.com/mr-lexx/cert/blob/main/stepik-certificate-67-bdb2266.pdf'>Сертификат</a>
 
